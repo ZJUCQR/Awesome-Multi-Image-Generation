@@ -384,11 +384,13 @@ This project is released under Apache License 2.0 (http://www.apache.org/license
 ## Citation
 
 If you find this repo is helpful for your research, please cite our paper:
+
+📄 **[A Survey on Multi-Image Generation: Advances, Challenges, and Future Directions](https://www.researchgate.net/publication/404851160_A_Survey_on_Multi-Image_Generation_Advances_Challenges_and_Future_Directions)**
+
 ```
-@article{,
-  title={},
-  author={},
-  journal={},
+@article{chen2026survey,
+  title={A Survey on Multi-Image Generation: Advances, Challenges, and Future Directions},
+  author={Chen, Qirui and Wang, Guo-Hua and Chen, Jinyuan and Chen, Qing-Guo and Zhang, Jun and Luo, Weihua},
   year={2026}
 }
 ```
